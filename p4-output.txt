@@ -1,0 +1,2 @@
+Badly formatted line, exiting. Bad line:
+ 1
